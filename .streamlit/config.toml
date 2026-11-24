@@ -1,0 +1,8 @@
+# Save this file as:  .streamlit\config.toml  (inside the project folder)
+[server]
+address = "0.0.0.0"
+port = 8501
+headless = true
+
+[browser]
+gatherUsageStats = false
